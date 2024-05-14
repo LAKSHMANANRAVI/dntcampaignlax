@@ -1,0 +1,85 @@
+.navbar-container {
+    position: relative;
+}
+
+
+.background-color{
+    /* background-color:cadetblue; */
+    background-image: url("../../../Resources/imagedc.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+.blur-background {
+  filter: blur(5px); /* Adjust the blur amount as needed */
+}
+.navbar-collapse {
+  backdrop-filter: blur(8px); /* Adjust the blur strength as needed */
+}
+.navbar-wrapper {
+    position: relative;
+      z-index: 1000; /* Or any higher value than the content */
+    }
+  
+  .navbar-video-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    overflow: hidden;
+  }
+  
+  .navbar-video {
+    width: 100%;
+    height: 80%;
+    object-fit: cover;
+  }
+  
+  .navbar {
+    z-index: 1; /* Ensure the navbar is above the video */
+  }
+  
+  .nav-link {
+    color: rgb(197, 112, 126) !important; /* Set the text color to white */
+  }
+  .navbar-brand,
+.navbar-toggler-icon {
+  color: rgb(228, 138, 138) !important; /* Set the color for the brand/logo and toggle icon */
+}
+.navbar-collapse {
+    justify-content: flex-end; /* Align the navbar items to the right */
+  }
+  .navbar {
+    z-index: 1; /* Ensure the navbar is above the video */
+  }
+  .nav-link.text-bold {
+    font-weight: bold;
+  }
+  /* Navbar.css */
+
+
+  .nav-link::after {
+    content: attr(data-text); /* Use the data-text attribute to set the content for the border */
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: -1; /* Place the border behind the text */
+    color: black; /* Set the border color */
+    -webkit-text-stroke: 1px white; /* Create a border around the text */
+    text-shadow:
+      -1px -1px 0 black,  
+       1px -1px 0 black,
+      -1px  1px 0 black,
+       1px  1px 0 black; /* Adjust the shadow to create the border effect */
+  }
+  .nav-button {
+    margin: 0.1cm;
+    color: rgb(25, 101, 101) ;
+    /* background-color: aqua; */
+    border-radius: 0; /* Remove button border-radius */
+    border: none; /* Remove button border */
+    font-weight: bold; /* Make button text bold */
+    border-color: black;
+  }

@@ -1,0 +1,11 @@
+.btn-flat {
+    background-color: #800080;
+    border: none;
+    color: #000; /* Set your desired color */
+  }
+  
+  .btn-flat:hover {
+    background-color: transparent;
+    color: #666; /* Set your desired color for hover state */
+  }
+  

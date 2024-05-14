@@ -1,0 +1,40 @@
+[
+   
+    
+    {
+        "id": 3,
+        "picture": "https://wwmt.com/resources/media/32c5f6b4-8cbb-4fb0-8c53-625dfa590d04-large16x9_WarmClothesDrive.png?1542235463263",
+        "title": "Warm Clothing Drive",
+        "category": "Clothing",
+        "category_bg": "black",
+        "card_bg": "#351E44",
+        "txt_btn_bg": "#fff",
+        "description": "Help us keep communities warm by contributing to our clothing drive. Your donation provides winter clothing to those in need, ensuring they stay cozy during cold months. Many individuals and families face the harsh reality of cold winters without proper clothing. Your support brings warmth and comfort, allowing people to face winter with dignity and a sense of security. Together, we can make the world a warmer place.",
+        "price": 150
+    },
+    
+    {
+        "id": 5,
+        "picture": "https://www.steppingstonescharity.org/wp-content/uploads/2019/04/kids-giving-lge.jpg",
+        "title": "Clothe the Needy",
+        "category": "Clothing",
+        "category_bg": "black",
+        "card_bg": "#351E44",
+        "txt_btn_bg": "#fff",
+        "description": "Join our efforts to provide clothing to individuals and families facing economic hardships. Your donation directly impacts lives by clothing those in need. We believe that clothing is not just a basic necessity but also a symbol of dignity. Your contribution helps us distribute clothing to shelters, schools, and communities in need. Together, we're restoring hope and providing a fresh start to those who deserve it.",
+        "price": 400
+    },
+   
+    
+    {
+        "id": 12,
+        "picture": "https://i.ibb.co/Q9jF7vK/Dress-with-Dignity.jpg",
+        "title": "Dress with Dignity",
+        "category": "Clothing",
+        "category_bg": "black",
+        "card_bg": "#351E44",
+        "txt_btn_bg": "#fff",
+        "description": "Every individual deserves to dress with dignity. Your donation provides clothing and restores a sense of pride and self-worth to those who need it most. We believe in the transformative power of clothing to boost confidence and well-being. Your support helps us provide clothing tailored to the needs of individuals, from school uniforms to professional attire. Together, we're helping people dress with dignity and take confident steps forward.",
+        "price": 210
+    }
+]

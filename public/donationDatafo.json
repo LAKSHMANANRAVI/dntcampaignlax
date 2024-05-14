@@ -1,0 +1,36 @@
+[
+
+    {
+        "id": 4,
+        "picture": "https://d1dxs113ar9ebd.cloudfront.net/225batonrouge/2017/12/iStock-serving-food-e1513719558505.jpg",
+        "title": "Foods for All",
+        "category": "Food",
+        "category_bg": "black",
+        "card_bg": "#351E44",
+        "txt_btn_bg": "#fff",
+        "description": "Support our mission to ensure that no one goes to bed hungry. Your donation provides nourishing meals to individuals and families facing food insecurity. Hunger should never be a daily reality for anyone. Your contribution helps us run food banks, meal programs, and community gardens. Together, we're making sure that everyone has access to nutritious food and the opportunity to thrive.",
+        "price": 200
+    },
+    {
+        "id": 7,
+        "picture": "https://clubrunner.blob.core.windows.net/00000060070/Images/image_20220318-002044.png",
+        "title": "Fighting Hunger Together",
+        "category": "Food",
+        "category_bg": "black",
+        "card_bg": "#351E44",
+        "txt_btn_bg": "#fff",
+        "description": "Join us in the fight against hunger by donating to our cause. Together, we can make a difference and ensure that everyone has access to nutritious food. Hunger is a global challenge, but it's one we can overcome when we stand together. Your contribution supports hunger relief programs, food distribution, and sustainable farming initiatives. Together, we're fighting hunger and building a world where no one has to go to bed hungry.",
+        "price": 140
+    },
+    {
+        "id": 11,
+        "picture": "https://i.ibb.co/bmcR35k/Nutrition-Support.jpg",
+        "title": "Nutrition Support",
+        "category": "Food",
+        "category_bg": "black",
+        "card_bg": "#351E44",
+        "txt_btn_bg": "#fff",
+        "description": "Help us provide essential nutrition support to those in need. Your donation positively impacts the health and well-being of individuals and families. Good nutrition is the foundation of a healthy life. Your support helps us distribute nutritious meals, educate communities on healthy eating, and address malnutrition. Together, we're ensuring that no one is left behind when it comes to good nutrition.",
+        "price": 160
+    }
+]

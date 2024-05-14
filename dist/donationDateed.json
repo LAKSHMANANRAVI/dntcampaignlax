@@ -1,0 +1,35 @@
+[
+    {
+    "id": 2,
+    "picture": "https://images.indianexpress.com/2020/09/scholarship-a-1200.jpg",
+    "title": "Educational Scholarships",
+    "category": "Education",
+    "category_bg": "black",
+    "card_bg": "#351E44",
+    "txt_btn_bg": "#fff",
+    "description": "Invest in the future by providing educational scholarships to talented students. Your donation opens doors to knowledge and empowers young minds to succeed. We believe that education is the key to personal growth and societal progress. Your support enables us to offer scholarships, mentorship programs, and educational resources to deserving students who may face financial barriers to their dreams. Together, we're shaping a brighter tomorrow through education.",
+    "price": 320
+},
+{
+    "id": 8,
+    "picture": "https://cdn.mos.cms.futurecdn.net/zz7h5g6PzP3baXYoZH5jum.jpg",
+    "title": "Access to Learning",
+    "category": "Education",
+    "category_bg": "black",
+    "card_bg": "#351E44",
+    "txt_btn_bg": "#fff",
+    "description": "Support our mission to ensure that every child has access to quality education. Your donation provides learning resources and opportunities to underserved communities. We work tirelessly to bridge the education gap by building schools, supplying books, and offering scholarships. Your contribution transforms lives by giving children the chance to learn, grow, and build a brighter future through education.",
+    "price": 180
+},
+{
+    "id": 9,
+    "picture": "https://www.rti.org/sites/default/files/insight-thumbnail-images/istock-1358014313.jpg",
+    "title": "Empowering Education",
+    "category": "Education",
+    "category_bg": "black",
+    "card_bg": "#351E44",
+    "txt_btn_bg": "#fff",
+    "description": "Empower students with the tools they need to succeed academically. Your donation makes a lasting impact on education by providing essential resources and support. We believe that education should be a path to empowerment. Your support helps us establish learning centers, provide tutoring, and equip schools with modern educational technology. Together, we're shaping a world where education unlocks endless possibilities.",
+    "price": 350
+}
+]

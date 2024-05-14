@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "picture": "https://www.nextlevelurgentcare.com/wp-content/uploads/2020/12/AdobeStock_179882754.jpeg",
+        "title": "Medical Aid Donation",
+        "category": "Health Care",
+        "category_bg": "black",
+        "card_bg": "#351E44",
+        "txt_btn_bg": "#fff",
+        "description": "Your generous donation to the Medical Aid Fund supports critical medical care and healthcare accessibility. We strive to make a significant impact on health and well-being by providing financial assistance to individuals facing medical emergencies and those who lack access to essential healthcare services. Your contribution helps cover medical bills, treatments, and medications, ensuring that no one has to compromise their health due to financial constraints. Join us in our mission to bring relief, hope, and healing to those in need.",
+        "price": 450
+    },
+    
+  
+    
+
+    {
+        "id": 6,
+        "picture": "https://i.ibb.co/DkjFjyf/healthcare-for-all.jpg",
+        "title": "Healthcare for All Peoples",
+        "category": "Health Care",
+        "category_bg": "black",
+        "card_bg": "#351E44",
+        "txt_btn_bg": "#fff",
+        "description": "Join us in our mission to ensure quality healthcare is accessible to all. Your contribution empowers us to reach underserved communities and provide essential care. We work towards reducing healthcare disparities and improving overall health outcomes. Your donation supports health awareness programs, preventive measures, medical facilities, and access to healthcare professionals. Together, we can create a healthier world where everyone has the opportunity to lead a fulfilling life free from health-related worries.",
+        "price": 330
+    },
+    
+   
+   
+    {
+        "id": 10,
+        "picture": "https://getinlightened.com/wp-content/uploads/2021/07/Screen-Shot-2021-07-28-at-12.42.40-PM.png",
+        "title": "Supporting Health Initiatives",
+        "category": "Health Care",
+        "category_bg": "black",
+        "card_bg": "#351E44",
+        "txt_btn_bg": "#fff",
+        "description": "Your donation supports a range of health initiatives aimed at improving lives and creating healthier communities. We focus on health education, disease prevention, medical research, and providing healthcare resources to underserved areas. By contributing, you become a partner in saving lives, promoting well-being, and creating sustainable health solutions. Your support helps us combat health challenges and fosters a culture of well-being for all.",
+        "price": 270
+    }
+    
+    
+]
